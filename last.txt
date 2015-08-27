@@ -1,7 +1,7 @@
 sdfasdhaha12345678910
-<<<<<<< f4e37f2f4a15468b6facb004d1c8274aaa145307
+
 -----------------
 affdsfgdsg
-=======
+
 -sddgfgfh
->>>>>>> merge of anotest
+
